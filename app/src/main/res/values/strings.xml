@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebasePhoneNoAuthentication</string>
+    <string name="auth_successfull">Authentication Successful</string>
+</resources>
